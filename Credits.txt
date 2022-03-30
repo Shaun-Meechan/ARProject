@@ -1,0 +1,8 @@
+gun fire: https://pixabay.com/sound-effects/shotgun-firing-4-6746/
+Explosion sfx: https://pixabay.com/sound-effects/big-impact-7054/
+Audio code: http://bendemott.blogspot.com/2016/10/unreal-4-playing-sound-from-c-with.html
+
+Lighting: 
+https://www.youtube.com/watch?v=Z6FAl6v0ax0&t=1323s
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/ARAugmentedReality/LightEstimate/GetCurrentLight
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/ARAugmentedReality/LightEstimation/
